@@ -1,0 +1,6 @@
+Project Euler Numerical Answers
+Computed by Lincoln Mercuro (ltm4163)
+
+Answers are in format {ID:Answer}
+
+1:
